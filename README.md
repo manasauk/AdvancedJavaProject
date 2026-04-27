@@ -1,29 +1,19 @@
-# AdvancedJavaProject
-## 📸 Screenshots
+Advanced java
 
-### 🏠 Home Page
-![Home Page](https://github.com/manasauk/AdvancedJavaProject/blob/main/index.png)
+adding fee : https://github.com/manasauk/AdvancedJavaProject/blob/main/addfeepayment.png
 
-### ➕ Add Fee Payment
-![Add Fee Payment](https://github.com/manasauk/AdvancedJavaProject/blob/main/addfeepayment.png)
+all payments list : https://github.com/manasauk/AdvancedJavaProject/blob/main/allpayments.png
 
-### 📋 View All Payments
-![All Payments](https://github.com/manasauk/AdvancedJavaProject/blob/main/allpayments.png)
+ deletingrecord : https://github.com/manasauk/AdvancedJavaProject/blob/main/deletingrecord.png
 
-### ❌ Delete Record
-![Delete Record](https://github.com/manasauk/AdvancedJavaProject/blob/main/deletingrecord.png)
+generating record : https://github.com/manasauk/AdvancedJavaProject/blob/main/generatingreport.png
 
-### 📊 Generate Report
-![Generate Report](https://github.com/manasauk/AdvancedJavaProject/blob/main/generatingreport.png)
+login : https://github.com/manasauk/AdvancedJavaProject/blob/main/index.png
 
-### 📈 Report Result
-![Report Result](https://github.com/manasauk/AdvancedJavaProject/blob/main/reportresult.png)
+overdue students : https://github.com/manasauk/AdvancedJavaProject/blob/main/overduestudents.png
 
-### 💰 Paid Students
-![Paid Students](https://github.com/manasauk/AdvancedJavaProject/blob/main/paidstudents.png)
+ paidstudents: https://github.com/manasauk/AdvancedJavaProject/blob/main/paidstudents.png
 
-### ⏳ Pending Students
-![Pending Students](https://github.com/manasauk/AdvancedJavaProject/blob/main/pendingstudent.png)
+pending list : https://github.com/manasauk/AdvancedJavaProject/blob/main/pendingstudent.png
 
-### ⚠️ Overdue Students
-![Overdue Students](https://github.com/manasauk/AdvancedJavaProject/blob/main/overduestudents.png)  
+report list : https://github.com/manasauk/AdvancedJavaProject/blob/main/reportresult.png
